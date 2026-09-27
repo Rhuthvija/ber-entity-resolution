@@ -1,0 +1,9 @@
+# Python 3.10+ (developed and tested on Python 3.11)
+polars==1.44.2
+duckdb==1.5.5
+pyarrow==25.0.1
+numpy==2.4.4
+rapidfuzz==3.14.6
+lightgbm==4.7.0
+anyascii==0.3.3
+# stage-3 notebook (colab/ber_cross_encoder.ipynb) runs on Google Colab with its preinstalled torch + transformers

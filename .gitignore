@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+work/
+dataset/
+output/
+*.parquet
+*.npy
+*.tsv
+*.zip
+.venv/
